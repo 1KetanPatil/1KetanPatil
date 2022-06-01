@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @1KetanPatil
-- 👀 I’m interested in doing something creative.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently doing PG-DAC at hyderabad.
 - 📫 How to reach me - ketangems3@gmail.com
 
 <!---
